@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<records>
+	<record>
+		<fio>Сидорова Мария Ивановна</fio>
+		<address>Санкт-Петербург, ул. Пушкина, д. 5</address>
+		<birth_date>05.05.1985</birth_date>
+		<appointment_date>20.10.2023</appointment_date>
+		<doctor_fio>Смирнова Анна Владимировна</doctor_fio>
+		<conclusion>Требуется наблюдение</conclusion>
+	</record>
+	<record>
+		<fio>Кузнецов Алексей Сергеевич</fio>
+		<address>Екатеринбург, ул. Мира, д. 15</address>
+		<birth_date>22.07.1978</birth_date>
+		<appointment_date>18.10.2023</appointment_date>
+		<doctor_fio>Иванова Ольга Александровна</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Васильев Андрей Николаевич</fio>
+		<address>Казань, ул. Баумана, д. 30</address>
+		<birth_date>14.09.1980</birth_date>
+		<appointment_date>25.10.2023</appointment_date>
+		<doctor_fio>Федорова Людмила Петровна</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Павлова Ольга Викторовна</fio>
+		<address>Ростов-на-Дону, ул. Садовая, д. 25</address>
+		<birth_date>10.11.1992</birth_date>
+		<appointment_date>28.10.2023</appointment_date>
+		<doctor_fio>Николаев Сергей Васильевич</doctor_fio>
+		<conclusion>Требуется обследование</conclusion>
+	</record>
+	<record>
+		<fio>Григорьев Денис Александрович</fio>
+		<address>Владивосток, ул. Набережная, д. 12</address>
+		<birth_date>03.04.1987</birth_date>
+		<appointment_date>30.10.2023</appointment_date>
+		<doctor_fio>Белова Татьяна Сергеевна</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Соколова Анастасия Игоревна</fio>
+		<address>Краснодар, ул. Красная, д. 8</address>
+		<birth_date>25.12.1998</birth_date>
+		<appointment_date>01.11.2023</appointment_date>
+		<doctor_fio>Михайлов Игорь Владимирович</doctor_fio>
+		<conclusion>Требуется консультация</conclusion>
+	</record>
+	<record>
+		<fio>Лебедев Павел Олегович</fio>
+		<address>Уфа, ул. Лермонтова, д. 14</address>
+		<birth_date>17.08.1983</birth_date>
+		<appointment_date>05.11.2023</appointment_date>
+		<doctor_fio>Ковалева Екатерина Андреевна</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Козлова Виктория Сергеевна</fio>
+		<address>Воронеж, ул. Советская, д. 18</address>
+		<birth_date>09.06.1991</birth_date>
+		<appointment_date>10.11.2023</appointment_date>
+		<doctor_fio>Орлов Алексей Дмитриевич</doctor_fio>
+		<conclusion>Требуется лечение</conclusion>
+	</record>
+	<record>
+		<fio>Сидорова Мария Ивановна</fio>
+		<address>Санкт-Петербург, ул. Пушкина, д. 5</address>
+		<birth_date>05.05.1985</birth_date>
+		<appointment_date>20.11.2023</appointment_date>
+		<doctor_fio>Смирнова Анна Владимировна</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Кузнецов Алексей Сергеевич</fio>
+		<address>Екатеринбург, ул. Мира, д. 15</address>
+		<birth_date>22.07.1978</birth_date>
+		<appointment_date>18.11.2023</appointment_date>
+		<doctor_fio>Иванова Ольга Александровна</doctor_fio>
+		<conclusion>Требуется лечение</conclusion>
+	</record>
+	<record>
+		<fio>Васильев Андрей Николаевич</fio>
+		<address>Казань, ул. Баумана, д. 30</address>
+		<birth_date>14.09.1980</birth_date>
+		<appointment_date>25.11.2023</appointment_date>
+		<doctor_fio>Федорова Людмила Петровна</doctor_fio>
+		<conclusion>Требуется наблюдение</conclusion>
+	</record>
+	<record>
+		<fio>Павлова Ольга Викторовна</fio>
+		<address>Ростов-на-Дону, ул. Садовая, д. 25</address>
+		<birth_date>10.11.1992</birth_date>
+		<appointment_date>28.11.2023</appointment_date>
+		<doctor_fio>Николаев Сергей Васильевич</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Григорьев Денис Александрович</fio>
+		<address>Владивосток, ул. Набережная, д. 12</address>
+		<birth_date>03.04.1987</birth_date>
+		<appointment_date>30.11.2023</appointment_date>
+		<doctor_fio>Белова Татьяна Сергеевна</doctor_fio>
+		<conclusion>Требуется лечение</conclusion>
+	</record>
+	<record>
+		<fio>Соколова Анастасия Игоревна</fio>
+		<address>Краснодар, ул. Красная, д. 8</address>
+		<birth_date>25.12.1998</birth_date>
+		<appointment_date>01.12.2023</appointment_date>
+		<doctor_fio>Михайлов Игорь Владимирович</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Лебедев Павел Олегович</fio>
+		<address>Уфа, ул. Лермонтова, д. 14</address>
+		<birth_date>17.08.1983</birth_date>
+		<appointment_date>05.12.2023</appointment_date>
+		<doctor_fio>Ковалева Екатерина Андреевна</doctor_fio>
+		<conclusion>Требуется обследование</conclusion>
+	</record>
+	<record>
+		<fio>Козлова Виктория Сергеевна</fio>
+		<address>Воронеж, ул. Советская, д. 18</address>
+		<birth_date>09.06.1991</birth_date>
+		<appointment_date>10.12.2023</appointment_date>
+		<doctor_fio>Орлов Алексей Дмитриевич</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Сидорова Мария Ивановна</fio>
+		<address>Санкт-Петербург, ул. Пушкина, д. 5</address>
+		<birth_date>05.05.1985</birth_date>
+		<appointment_date>20.12.2023</appointment_date>
+		<doctor_fio>Смирнова Анна Владимировна</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Кузнецов Алексей Сергеевич</fio>
+		<address>Екатеринбург, ул. Мира, д. 15</address>
+		<birth_date>22.07.1978</birth_date>
+		<appointment_date>18.12.2023</appointment_date>
+		<doctor_fio>Иванова Ольга Александровна</doctor_fio>
+		<conclusion>Требуется лечение</conclusion>
+	</record>
+	<record>
+		<fio>Васильев Андрей Николаевич</fio>
+		<address>Казань, ул. Баумана, д. 30</address>
+		<birth_date>14.09.1980</birth_date>
+		<appointment_date>25.12.2023</appointment_date>
+		<doctor_fio>Федорова Людмила Петровна</doctor_fio>
+		<conclusion>Требуется наблюдение</conclusion>
+	</record>
+	<record>
+		<fio>Павлова Ольга Викторовна</fio>
+		<address>Ростов-на-Дону, ул. Садовая, д. 25</address>
+		<birth_date>10.11.1992</birth_date>
+		<appointment_date>28.12.2023</appointment_date>
+		<doctor_fio>Николаев Сергей Васильевич</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Григорьев Денис Александрович</fio>
+		<address>Владивосток, ул. Набережная, д. 12</address>
+		<birth_date>03.04.1987</birth_date>
+		<appointment_date>30.12.2023</appointment_date>
+		<doctor_fio>Белова Татьяна Сергеевна</doctor_fio>
+		<conclusion>Требуется лечение</conclusion>
+	</record>
+	<record>
+		<fio>Соколова Анастасия Игоревна</fio>
+		<address>Краснодар, ул. Красная, д. 8</address>
+		<birth_date>25.12.1998</birth_date>
+		<appointment_date>01.01.2024</appointment_date>
+		<doctor_fio>Михайлов Игорь Владимирович</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Лебедев Павел Олегович</fio>
+		<address>Уфа, ул. Лермонтова, д. 14</address>
+		<birth_date>17.08.1983</birth_date>
+		<appointment_date>05.01.2024</appointment_date>
+		<doctor_fio>Ковалева Екатерина Андреевна</doctor_fio>
+		<conclusion>Требуется обследование</conclusion>
+	</record>
+	<record>
+		<fio>Козлова Виктория Сергеевна</fio>
+		<address>Воронеж, ул. Советская, д. 18</address>
+		<birth_date>09.06.1991</birth_date>
+		<appointment_date>10.01.2024</appointment_date>
+		<doctor_fio>Орлов Алексей Дмитриевич</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Черенков Федор Альбертович</fio>
+		<address>Воронеж, ул. Советская, д. 18</address>
+		<birth_date>09.06.1991</birth_date>
+		<appointment_date>10.01.2024</appointment_date>
+		<doctor_fio>Орлов Алексей Дмитриевич</doctor_fio>
+		<conclusion>Здоров</conclusion>
+	</record>
+	<record>
+		<fio>Белова Мария Сергееван </fio>
+		<address>г. Минск  Академия наук</address>
+		<birth_date>12.10.2002</birth_date>
+		<appointment_date>14.12.2027</appointment_date>
+		<doctor_fio>Склифосовский Арсений Андреевич</doctor_fio>
+		<conclusion>гипертания </conclusion>
+	</record>
+</records>
